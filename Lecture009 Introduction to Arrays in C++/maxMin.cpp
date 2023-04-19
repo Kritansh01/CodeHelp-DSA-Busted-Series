@@ -1,4 +1,6 @@
 #include<iostream>
+#include <climits>
+
 using namespace std;
 
 int getMin(int num[], int n) {
